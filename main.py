@@ -4,7 +4,7 @@ import datetime
 import random
 
 TELEGRAM_BOT_TOKEN = '7080415993:AAE02s2BVe8mwTSPYeJA47Xo1rO0AGKQUFA'
-TELEGRAM_CHANNEL_ID = 5199846960  # Ganti dengan ID saluran Telegram Anda
+TELEGRAM_CHANNEL_ID = -1002026436821 # Ganti dengan ID saluran Telegram Anda
 
 # Fungsi untuk mengambil data dari API
 def get_livestream_data():
